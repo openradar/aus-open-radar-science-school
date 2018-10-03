@@ -16,9 +16,7 @@ The workshop will be on the Clayton Campus of Monash. The exact venue will be de
 
 <h2>
 <center>
-
-[Click here to registrer for the School](https://goo.gl/forms/ZFj4LlPkdSJah7hi1)
-
+<a href=https://goo.gl/forms/ZFj4LlPkdSJah7hi1>Click here to registrer for the School</a>
 </center>
 </h2>
 
