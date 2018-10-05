@@ -36,8 +36,8 @@ TBA
 
 Scott Collis, Atmospheric Scientist, Argonne National Laboratory.
 
-Joshua Soderholm, TITLE, Place
+Joshua Soderholm, Postdoctoral Scientist, Monash University
 
-Valentin Louf, TITLE, Place
+Valentin Louf, Postdoctoral Scientist, Monash University
 
 Robert Jackson, Postdoctoral Scientist, Argonne National Laboratory. 
