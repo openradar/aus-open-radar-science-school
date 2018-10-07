@@ -15,7 +15,7 @@ the Anaconda Python Distribution. A beginners level of Python will optimize the 
 The workshop will be on the Clayton Campus of Monash. The exact venue will be determined when we have numbers  
 
 
-## [Click here to register for the School](https://goo.gl/forms/ZFj4LlPkdSJah7hi1>)
+## [Click here to register for the School](https://docs.google.com/forms/d/e/1FAIpQLSdwxeURjl1P6lZYs2sWR3lUS-iRP6Q_X-hB2GO6B7SioMfZxg/viewform?usp=sf_link)
 
 
 ### Topics Covered
