@@ -1,0 +1,11 @@
+fig = plt.figure(figsize=(8,8))
+ax = plt.axes(projection=ccrs.PlateCarree())
+ax.text(Melbourne_coords[0], Melbourne_coords[1],'Melbourne')
+ax.text(Sydney_coords[0], Sydney_coords[1],'Sydney')
+ax.plot([Melbourne_coords[0], Sydney_coords[0]], [Melbourne_coords[1], Sydney_coords[1]],
+       color='k')
+ax.set_xlim([110, 160])
+ax.set_ylim([-40, -10])
+ax.coastlines(resolution='10m')
+ax.stock_img()
+ax.add_feature(cfeature.RIVERS)
