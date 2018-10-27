@@ -45,7 +45,7 @@ TBA
 * 12:00 to 12:30 A look under the hood: Py-ART's data model - Scott Collis
 * 12:30 to 1:30 Lunch
 * 1:30 to 2:00 Obtaining, reading and displaying Australian Radar Data - Joshua Soderholm
-* 2:30 to 3:00 Dual polarimetric science by example, Aussie dual pol data - Joshua Soderholm
+* 2:00 to 3:00 Dual polarimetric science by example, Aussie dual pol data - Joshua Soderholm
 * 3:00 to 3:30 Break
 * 3:30 to 4:30 Radar Processing by example, the CPOL data set - Valentin Louf
 * 4:30 to 5:00 Open questions and ad-hoc demos
