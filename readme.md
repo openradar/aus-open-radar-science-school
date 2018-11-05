@@ -30,7 +30,10 @@ The workshop will be on the Clayton Campus of Monash. The exact venue will be de
 
 ### Pre School Instructions
 
-TBA
+You need to turn up with a working Anaconda installation with out Py-ART environment installed.
+[Click here to for instructions](https://github.com/openradar/aus-open-radar-science-school/blob/master/install.rst)
+
+
 
 ### Agenda
 
