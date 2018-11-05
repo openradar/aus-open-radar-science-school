@@ -108,6 +108,6 @@ Final step is to make sure our environment is working. We can test this with the
 .. code-block:: bash
 
     activate pyart-2018
-    python test_insall.py
+    python test_install.py
     
 If you see SUCCESS then you are successful.
