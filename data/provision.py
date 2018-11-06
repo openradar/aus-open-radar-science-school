@@ -15,9 +15,8 @@ def get_a_file(url, odir):
 
 
 def filelist():
-    files = ['http://www.mcs.anl.gov/~scollis/pyart/csapr_test_case.nc',
-             'http://www.mcs.anl.gov/~scollis/pyart/nsaxsaprppiC1.a1.20140201.184802.nc',
-             'http://www.mcs.anl.gov/~scollis/pyart/sgpxsaprcmacsurI5.c1.20170801.044013.nc']
+    files = ['http://www.mcs.anl.gov/~scollis/pyart/sgpxsaprcmacsurI5.c1.20170801.044013.nc',
+             'http://www.mcs.anl.gov/~scollis/pyart/66_20181025_084830.pvol.h5']
 
     return files
 
