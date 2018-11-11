@@ -12,10 +12,12 @@ This School, open to all and offered free of charge is motivated by:
 This workshop will be "Bring Your Own Device". Users should have the ability to configure and load software specifically
 the Anaconda Python Distribution. A beginners level of Python will optimize the knowledge gained from the course. 
 
-The workshop will be on the Clayton Campus of Monash. The exact venue will be determined when we have numbers  
+The workshop will be held at the Department of Civil Engineering Conference Room, Room
+110A, 23 College Walk, Monash Clayton campus.
 
+[Click here for Google map link](https://goo.gl/maps/CKRuBVrVFc92)
 
-## [Click here to register for the School](https://docs.google.com/forms/d/e/1FAIpQLSdwxeURjl1P6lZYs2sWR3lUS-iRP6Q_X-hB2GO6B7SioMfZxg/viewform?usp=sf_link)
+## Registration closed. 24 Registered! 
 
 
 ### Topics Covered
